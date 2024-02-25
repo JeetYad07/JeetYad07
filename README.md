@@ -15,7 +15,7 @@
 
 ### Connect with Me
 - 📧 Feel free to reach out to me via email at jeetb.yadav11@gmail.com.
-- 🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/jeetbahadur/](https://www.linkedin.com/in/jeet-y-41a073175/)).
+- 🔗 Connect with me on [LinkedIn]([[https://www.linkedin.com/in/jeetbahadur/](https://www.linkedin.com/in/jeet-y-41a073175/](https://www.linkedin.com/in/jeet-y-41a073175/))).
 
 ### Let's Collaborate!
 - 🤝 Open to collaboration and always excited to work on new projects.
