@@ -3,7 +3,7 @@
 ### About Me
 - 👨‍💻 I'm a Software Development Engineer at CGI.
 - 🌐 Currently, I'm based in Bengaluru.
-- 📅 With 1 year and 7 months of professional experience in software development.
+- 📅 With 2 year and 7 months of professional experience in software development.
 
 ### My Expertise
 - 💡 I specialize in building scalable projects with a focus on performance and user experience.
