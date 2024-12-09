@@ -3,14 +3,14 @@
 ### About Me
 - 👨‍💻 I'm a Software Development Engineer at CGI.
 - 🌐 Currently, I'm based in Bengaluru.
-- 📅 With 2 year and 7 months of professional experience in software development.
+- 📅 With 2 year and 8 months of professional experience in software development.
 
 ### My Expertise
 - 💡 I specialize in building scalable projects with a focus on performance and user experience.
 - 🚀 Actively involved in projects that serve a user base of over 1000+ users, ensuring a seamless and responsive experience.
 
 ### Tech Stack
-- 💻 Proficient in Javascript,HTML5,CSS3,SSIS,SSRS,RestAPI,Microservices.
+- 💻 Proficient in Javascript,HTML5,CSS3,Java,SSIS,SSRS,RestAPI,Microservices.
 - 🛠️ Experienced in Reactjs,Redux,Nodejs.
 
 ### Connect with Me
