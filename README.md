@@ -1,9 +1,9 @@
 ## Hi there, I'm Jeet Bahadur! 👋
 
 ### About Me
-- 👨‍💻 I'm a Software Development Engineer at CGI.
+- 👨‍💻 I'm a Software Development Engineer at MSG Global Solution.
 - 🌐 Currently, I'm based in Bengaluru.
-- 📅 With 2 year and 8 months of professional experience in software development.
+- 📅 With 3 years of professional experience in software development.
 
 ### My Expertise
 - 💡 I specialize in building scalable projects with a focus on performance and user experience.
